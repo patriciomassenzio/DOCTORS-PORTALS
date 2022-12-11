@@ -1,4 +1,4 @@
-# [Doctors Portal - Find Best Doctors & Book Appointment](https://github.com/nchdatta/doctors-portal-client)
+
 
 ## About Project
 
@@ -52,10 +52,7 @@ Step 3: Run command `npm i` on terminal\
 Step 4: Create a .env file on root folder & Enter config and keys\
 Step 5: Run command `npm start` or `yarn start`
 
-## Important Links
-Github: [Client](https://github.com/nchdatta/doctors-portal-client) [Server](https://github.com/nchdatta/doctors-portal-server)\
-Live Demo: [https://doctorsportalbd.netlify.app](https://doctorsportalbd.netlify.app)\
-Server: [https://doctors-portal-21vz.onrender.com](https://doctors-portal-21vz.onrender.com)
+
 
 ## Demo Admin 
 Email: doctorsportalad@gmail.com\
